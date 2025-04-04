@@ -1,6 +1,6 @@
 # RESTful API Node Typescript Server Boilerplate
 
-By running a single command, you will get a production-ready Node.js TypeScript app installed and fully configured on your machine. The app comes with many built-in features, such as authentication using JWT, request validation, docker support, API documentation, etc. For more details, check the features list below.
+By running a single command, you will get a production-ready Node.js TypeScript app installed and fully configured on your machine. The app is only made for small products which do not require a lot of features.
 
 ## Quick Start
 
